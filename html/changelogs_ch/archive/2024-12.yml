@@ -126,3 +126,13 @@
 2024-12-21:
   CHOMPStation2StaffMirrorBot:
   - bugfix: 516 chat flickering
+2024-12-23:
+  Asher-42:
+  - rscadd: Added sloog ears
+  - rscadd: Added sloog shell
+  - rscadd: Added sloog taur body
+  - rscadd: Added sloog head
+  Colfer1:
+  - bugfix: fixed exploit allowing vr users to escape into the real world
+  Kashargul:
+  - admin: fix admin resize
